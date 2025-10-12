@@ -1,7 +1,7 @@
 # Hi 👋, I am Arpita Sah
 **A passionate AL/ML Engineer || AL/ML Robotic Engineer** 
 
-Email Me 👉 ✉️ **arpitasah750@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **arpitasah750@gmail.com** For Collaboration/Project or Anything Else Related to Python. 😊😊
 
 - 🔭 **I’m currently studing on:** Westcliff University
 - 🌱 **I’m currently learning:** Python
