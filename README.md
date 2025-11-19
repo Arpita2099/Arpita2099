@@ -10,7 +10,8 @@ Email Me 👉 ✉️ **arpitasah750@gmail.com** For Collaboration/Project or Any
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** arpitasah750@gmail.com
 - 😄 **Pronouns:** Arpita Sah
-- ⚡ **Fun fact:** I Love Snake <img width="50px" height="50px" alt="image" src="https://github.com/user-attachments/assets/ae9c7bce-ca90-4f8b-9239-44dbc239e456" />
+- ⚡ **Fun fact:** I Love Snake.
+- <img width="100px" height="150px" alt="image" src="https://github.com/user-attachments/assets/ae9c7bce-ca90-4f8b-9239-44dbc239e456" />
 
 .
 ## 🌐 Socials:
